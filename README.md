@@ -1,7 +1,7 @@
 # META - Full Stack Software Engineer 
 - Please review this certificte earned as a Full Stack Software Engineer.
 
-- After completing several rigourous Front-End Developer courses, as well as Back-End Developer courses, authorized by META, I've acquired many powerful skillsets that will make me a stronger engineer. Such skills include:
+- After completing several rigourous Front-End Developer courses, as well as Back-End Developer courses, authorized by META, I've acquired many core skillsets that will make me a stronger engineer. Such skills include:
 
 1. APIs
 2. Cloud Hosting
@@ -19,5 +19,5 @@
 14. XML
 15. Django
 
-- I look forward to implementing these skillsets into the Software Engineer role, and excell long term.
+- I look forward to implementing these skillsets into the Software Engineer role, and excelling at it long term.
 
