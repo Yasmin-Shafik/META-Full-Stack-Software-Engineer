@@ -3,21 +3,21 @@
 
 - After completing several rigourous Front-End Developer courses, as well as Back-End Developer courses, authorized by META, I've acquired many powerful skillsets that will make me a stronger engineer. Such skills include:
 
-APIs
-Cloud Hosting
-Coding Interview Prep
-CSS
-Databases
-HTML
-JavaScript ES6
-JSON
-Python
-React.js
-SQL
-UX/UI
-Version Control
-XML
-Django
+1. APIs
+2. Cloud Hosting
+3. Coding Interview Prep
+4. CSS
+5. Databases
+6. HTML
+7. JavaScript ES6
+8. JSON
+9. Python
+10. React.js
+11. SQL
+12. UX/UI
+13. Version Control
+14. XML
+15. Django
 
 - I look forward to implementing these skillsets into the Software Engineer role, and excell long term.
 
